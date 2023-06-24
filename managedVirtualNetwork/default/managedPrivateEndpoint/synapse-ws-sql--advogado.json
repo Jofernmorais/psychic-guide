@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--advogado",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/46056462-de9f-4813-af03-7eef87827322/resourceGroups/cloud-shell-storage-eastus/providers/Microsoft.Synapse/workspaces/advogado",
+		"groupId": "sql",
+		"fqdns": [
+			"advogado.e64b3be4-1729-4401-a2eb-5847a06ae545.sql.azuresynapse.net"
+		]
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--advogado-cs210032000ed9ba72f",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/46056462-de9f-4813-af03-7eef87827322/resourceGroups/cloud-shell-storage-eastus/providers/Microsoft.Storage/storageAccounts/cs210032000ed9ba72f",
+		"groupId": "dfs"
+	}
+}
